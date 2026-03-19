@@ -46,10 +46,10 @@ We're **Korphere**. We're an IT team.
 ---
 
 ### 🐍 Contribution Snake
-![snake](https://raw.githubusercontent.com/KoHaRxnP/KoHaRxnP/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/Korphere/KoHaRxnP/output/github-contribution-grid-snake.svg)
 
 ### 📊 3D Contributions
-![GitHub 3D Contrib](https://github-profile-3d-contrib.vercel.app/api?username=KoHaRxnP&theme=radical)
+![GitHub 3D Contrib](https://github-profile-3d-contrib.vercel.app/api?username=Korphere&theme=radical)
 
 ### 📈 Visitors
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKoHaRxnP&count_bg=%23bf3989&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKorphere&count_bg=%23bf3989&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false)
