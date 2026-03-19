@@ -6,7 +6,7 @@
 We're **Korphere**. We're an IT team.
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/あなたのID)
-[![Discord](https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white)](あなたのDiscordリンク)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](あなたのDiscordリンク)
 
 ### 👨‍💻👩‍💻 Members
 
@@ -32,7 +32,7 @@ We're **Korphere**. We're an IT team.
 ## 🛠 Our Skills
 <details open>
   <summary><b>Languages & Frameworks</b></summary>
-  <img src="httts,js,html,css,react,nextjs,nodejs,elixir,go,java,kotlin,py,rust,wasm" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,nodejs,elixir,go,java,kotlin,py,rust,wasm" />
 </details>
 
 <details>
