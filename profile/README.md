@@ -51,9 +51,6 @@ We're **Korphere**. We're an IT team.
 ## ✍️ Latest Blog Posts
 ---
 
-### 🐍 Contribution Snake
-![snake](https://raw.githubusercontent.com/Korphere/KoHaRxnP/output/github-contribution-grid-snake.svg)
-
 ### 📊 3D Contributions
 ![GitHub 3D Contrib](https://github-profile-3d-contrib.vercel.app/api?username=Korphere&theme=radical)
 
