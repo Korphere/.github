@@ -29,8 +29,7 @@ We're **Korphere**. We're an IT team.
 </table>
 
 ### 🐧 Philosophy
-> **"Penguins are just so cute." (ペンギンってかわいいよね)**
-> ![Penguin Love](https://img.shields.io/badge/Penguin-Lover-2097F3?style=flat-square&logo=linux&logoColor=white)
+**"Penguins are just so cute." (ペンギンってかわいいよね)**
 
 ### 🚀 Mission
 **Develop fast. User first. We must.**
@@ -58,8 +57,12 @@ We're **Korphere**. We're an IT team.
 
 ---
 
-### 📊 3D Contributions
-![GitHub 3D Contrib](https://github-profile-3d-contrib.vercel.app/api?username=Korphere&theme=radical)
+## 📊 Analytics
 
-### 📈 Visitors
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKorphere&count_bg=%23bf3989&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false)
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Korphere&theme=radical" width="70%" />
+</p>
+
+<p align="right">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKorphere&count_bg=%23bf3989&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false" />
+</p>
