@@ -1,4 +1,6 @@
-# Hi there! We're Korphere! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BF3989&center=true&vCenter=true&width=435&lines=Hi+there!+We're+Korphere!;Develop+fast.+User+first.;Penguins+are+just+so+cute.">
+</p>
 
 ---
 
@@ -54,6 +56,14 @@ We're **Korphere**. We're an IT team.
 ![Repos](https://img.shields.io/github/repos-count/Korphere?style=flat-square&logo=github&label=Repositories&color=success)
 ![Members](https://img.shields.io/badge/Members-2-orange?style=flat-square&logo=github&label=Team%20Size)
 ![Last Commit](https://img.shields.io/github/last-commit/Korphere/.github?style=flat-square&label=Last%20Org%20Activity)
+
+---
+
+### 📊 Korphere Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Korphere&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korphere&layout=compact&theme=radical&hide_border=true" width="300" />
+</p>
 
 ---
 
