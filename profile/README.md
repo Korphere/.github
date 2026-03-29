@@ -5,8 +5,7 @@
 ## 💫 About Us
 We're **Korphere**. We're an IT team.
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/あなたのID)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](あなたのDiscordリンク)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/seHTh4Q5t)
 
 ### 👨‍💻👩‍💻 Members
 
