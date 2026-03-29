@@ -49,7 +49,12 @@ We're **Korphere**. We're an IT team.
 
 ---
 
-## ✍️ Latest Blog Posts
+### 📈 Korphere Stats
+
+![Repos](https://img.shields.io/github/repos-count/Korphere?style=flat-square&logo=github&label=Repositories&color=success)
+![Members](https://img.shields.io/badge/Members-2-orange?style=flat-square&logo=github&label=Team%20Size)
+![Last Commit](https://img.shields.io/github/last-commit/Korphere/.github?style=flat-square&label=Last%20Org%20Activity)
+
 ---
 
 ### 📊 3D Contributions
