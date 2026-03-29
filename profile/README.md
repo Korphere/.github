@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BF3989&center=true&vCenter=true&width=435&lines=Hi+there!+We're+Korphere!;Develop+fast.+User+first.;Penguins+are+just+so+cute.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5A58BA&center=true&vCenter=true&width=435&lines=Hi+there!+We're+Korphere!;Develop+fast.+User+first.;Penguins+are+just+so+cute.">
 </p>
 
 ---
