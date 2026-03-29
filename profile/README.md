@@ -29,7 +29,8 @@ We're **Korphere**. We're an IT team.
 </table>
 
 ### 🐧 Philosophy
-**"Penguins are just so cute." (ペンギンってかわいいよね)**
+> **"Penguins are just so cute." (ペンギンってかわいいよね)**
+> ![Penguin Love](https://img.shields.io/badge/Penguin-Lover-2097F3?style=flat-square&logo=linux&logoColor=white)
 
 ### 🚀 Mission
 **Develop fast. User first. We must.**
