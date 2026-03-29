@@ -33,6 +33,10 @@ We're **Korphere**. We're an IT team.
 ### 🐧 Philosophy
 **"Penguins are just so cute." (ペンギンってかわいいよね)**
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="100" />
+</p>
+
 ### 🚀 Mission
 **Develop fast. User first. We must.**
 
