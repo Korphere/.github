@@ -48,7 +48,7 @@ We're **Korphere**. We're an IT team.
   <img src="https://skillicons.dev/icons?i=ts,js,jquery,html,css,react,nextjs,nodejs,bootstrap,c,cs,cpp,elixir,go,java,kotlin,py,rust,wasm,md,opencv,postgres,regex,styledcomponents,svg,swift,tauri" />
 </details>
 
-<details>
+<details open>
   <summary><b>Infrastructure & Tools</b></summary>
   <img src="https://skillicons.dev/icons?i=arch,linux,ubuntu,cloudflare,supabase,sqlite,docker,git,github,gmail,gradle,githubactions,vscode,vite,tailwind,figma,maven,npm,obsidian,powershell,bash,windows,workers" />
 </details>
