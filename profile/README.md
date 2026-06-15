@@ -38,7 +38,9 @@ We're **Korphere**. We're an IT team.
 </p>
 
 ### 🚀 Mission
-**Develop fast. User first. We must.**
+**Develop fast.**
+**User first.**
+**We must.**
 
 ---
 
