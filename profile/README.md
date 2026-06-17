@@ -46,8 +46,8 @@ We're **Korphere**. We're an IT team.
 
 ## 🛠 Our Skills
 
-### Languages & Frameworks
   <div align="center">
+  <h3>Languages & Frameworks</h3>
   <img src="https://skillicons.dev/icons?i=ts,js,jquery,html,css,react,nextjs,nodejs,bootstrap,c,cs,cpp,elixir,go,java,kotlin,py,rust,wasm,md,postgres,regex,styledcomponents,svg,swift,tauri,bevy,electron,jest,opencv,solidjs,svelte,vue&perline=6" />
   </div>
 
