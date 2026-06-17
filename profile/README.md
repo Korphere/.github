@@ -68,10 +68,8 @@ We're **Korphere**. We're an IT team.
 ---
 
 ### 📊 Korphere Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Korphere&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korphere&layout=compact&theme=radical&hide_border=true" width="300" />
-</p>
+
+(( ( 'ω'  ) ≡ (  'ω' ) ))
 
 ---
 
