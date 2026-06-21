@@ -69,7 +69,7 @@ We're **Korphere**. We're an IT team.
 
 ### 📊 Korphere Activity
 
-(( ( 'ω'  ) ≡ (  'ω' ) ))
+(( ( 'ω'  ) ≡ (  'ω' ) )) <(/MOVING/)
 
 ---
 
