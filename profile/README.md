@@ -5,7 +5,7 @@
 ---
 
 ## 💫 About Us
-We're **Korphere**. We're an IT team.
+We're **Korphere**.
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/seHTh4Q5t)
 [![Website](https://img.shields.io/badge/Website-Korphere-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://korphere.koharup-penguin.workers.dev)
