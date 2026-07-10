@@ -7,6 +7,8 @@
 ## 💫 About Us
 We're **Korphere**.
 
+### Pron.: kɔːɹfɛə
+
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/seHTh4Q5t)
 [![Website](https://img.shields.io/badge/Website-Korphere-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://korphere.koharup-penguin.workers.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Korphere)
