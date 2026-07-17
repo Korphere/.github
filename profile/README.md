@@ -65,7 +65,7 @@ We're **Korphere**.
 ![Members](https://img.shields.io/badge/Members-2-orange?style=flat-square&logo=github&label=Team%20Size)
 ![Last Commit](https://img.shields.io/github/last-commit/Korphere/.github?style=flat-square&label=Last%20Org%20Activity)
 
-  <img src="https://github-stats-eta-two.vercel.app/api/stats/Korphere?theme=github" alt="Developer Score">
+  <img src="https://github-stats-modified-by-koharxnp.vercel.app/api/stats/Korphere?theme=github" alt="Developer Score">
 
 ---
 
